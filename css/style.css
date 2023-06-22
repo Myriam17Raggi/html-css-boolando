@@ -2,15 +2,21 @@
     background-color: orangered;
 }
 
+#main_container{
+    width: 100;
+    margin: 250px auto;
+}
+
 .name_list{
     align-items: flex-start;
 }
 
 .card{
+    flex-wrap: wrap;
     color: black;
     display: flex;
     align-items: center;
-    border-color: grey ;
+    border-color: grey;
 }
 
 .text-decoration{
