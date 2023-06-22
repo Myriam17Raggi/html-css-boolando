@@ -12,6 +12,7 @@
 }
 
 .card{
+    font-family: calibri;
     flex-wrap: wrap;
     color: black;
     display: flex;
