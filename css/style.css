@@ -6,7 +6,18 @@
     align-items: flex-start;
 }
 
-.img{
-    justify-content: flex-end;
+.card{
+    color: black;
+    display: flex;
+    align-items: center;
+    border-color: grey ;
+}
 
+.text-decoration{
+    color: red;
+    text-decoration: dashed;
+}
+
+.text-red{
+    color: red;
 }
