@@ -5,3 +5,8 @@
 .name_list{
     align-items: flex-start;
 }
+
+.img{
+    justify-content: flex-end;
+
+}
